@@ -1,5 +1,5 @@
 InterFace STATistics
-Gaël Roualland <gael.roualland@dial.oleane.com>
+GaÃ«l Roualland <gael.roualland@dial.oleane.com>
 ===============================================
 
 * Introduction
@@ -95,3 +95,11 @@ http://gael.roualland.free.fr/ifstat/
 If you're happy with ifstat, I'd be glad to hear from you and know
 what you use it for and on which systems. Bugs reports are welcomed
 too! Thanks.
+
+```
+        lo                enp2s0              wlp1s0              virbr0            virbr0-nic    
+ KB/s in  KB/s out   KB/s in  KB/s out   KB/s in  KB/s out   KB/s in  KB/s out   KB/s in  KB/s out
+    0.47      0.47    536.39     12.21      0.00      0.00      0.00      0.00      0.00      0.00
+    0.47      0.47      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+    0.47      0.47    332.59      7.68      0.00      0.00      0.00      0.00      0.00      0.00
+```
